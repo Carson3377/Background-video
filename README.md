@@ -1,7 +1,7 @@
 JavaScript project --
 
 # Background video
-In this JavaScript project, we're going to create a video background with a play and pause features. Play() and Pause() methods are introduced in this project as an useful common features used in websites display at some of the parts of the webpage, making the website more entertaining.   
+In this JavaScript project, we're going to create a video background with a play and pause features. Play() and Pause() methods are introduced in this project as an useful common features used in websites display at some of the parts of the webpage, making the website more entertaining. [Video Background](https://carson3377.github.io/Background-video/video.html)
 
 Credit: FreeCodeCamp.org
 
