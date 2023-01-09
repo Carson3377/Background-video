@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Project -- Background Video</title>
+
+    <link rel="stylesheet" href="video.css">
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+
+</head>
+<body>
+    <div class="preloader">
+        <img src="preloader.gif" alt="preloader" class="preloader__item" />
+    </div>
+
+    <header>
+        <video class="video-container" muted autoplay loop>
+            <source src="video.mp4" type="video/mp4" />
+        </video>
+    </header>
+
+    <button class="switch-btn">
+        <span>Play</span>
+        <span>Pause</span>
+        <span class="switch"></span>
+    </button>
+
+    <script src="video.js"></script>
+</body>
+</html>
